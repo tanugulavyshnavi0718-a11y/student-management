@@ -6,7 +6,7 @@ function App() {
   const [students, setStudents] = useState([
     { id: 1, name: "Rahul Kumar", course: "AWS Cloud", email: "rahul@gmail.com" },
     { id: 2, name: "Priya Sharma", course: "DevOps", email: "priya@gmail.com" },
-    { id: 3, name: "Arjun Reddy", course: "React JS", email: "arjun@gmail.com" }
+    { id: 3, name: "pavan", course: "React JS", email: "arjun@gmail.com" }
   ]);
 
   const [name, setName] = useState("");
